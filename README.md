@@ -25,3 +25,4 @@ You can then use the following commands:
 - `npm run lint` to run the linter
 
 > 💡 Since this project is JavaScript only there is nothing to preview in the browser. Use `npm run test` to check your progress or `npm run start` to run the code.
+# js-functions-2_basic-calculations
